@@ -1,0 +1,20 @@
+{
+  "name": "yori",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/bwahn/yori",
+  "keywords": [
+    "yori",
+    "media",
+    "player"
+  ],
+  "author": "byungwook.ahn@gmail.com",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "1.7.12"
+  }
+}
